@@ -1,0 +1,191 @@
+<resources>
+    <string name="app_name">LEAFY</string>
+    <string name="slogan">All-in-One Hub for Gardening Tips &amp; Tools!</string>
+    <string name="logo">logo</string>
+    <string name="title">LEAFY</string>
+    <string name="onboarding1">onboarding1</string>
+    <string name="onboarding_title1">Welcome to the Green Life</string>
+    <string name="onboarding_subtitle1">Grow Your Garden Like a Pro. Discover essential gardening tools and expert tips — all in one place.</string>
+    <string name="onboarding_title2">Tools That Do the Work</string>
+    <string name="onboarding_subtitle2">Shop Smart. Dig Easy. Find top-quality gardening equipment tailored to your needs, delivered to your doorstep</string>
+    <string name="onboarding_title3">Learn While You Grow</string>
+    <string name="onboarding_subtitle3">
+        Get Tips That Truly Work. From beginners to pros, explore curated gardening guides
+        and seasonal advice to help your garden thrive.
+    </string>
+    <string name="signup">Sign Up</string>
+    <string name="login">Log In</string>
+    <string name="sub_slogan">Plant Care, Simplified</string>
+    <string name="onboarding_btn1">Next</string>
+    <string name="onboarding_btn2">Skip</string>
+
+    <string name="name">Full name</string>
+    <string name="email">Email address</string>
+    <string name="password">Password</string>
+    <string name="confirm_pwd">Confirm password</string>
+    <string name="create_acc">Create account</string>
+    <string name="already_have_acc">Already have an account?</string>
+    <string name="login_using">Or login using,</string>
+
+
+    <string name="life_style">Life Style</string>
+    <string name="page11_title">Essential Plant Nutrients</string>
+    <string name="overview_title">Overview</string>
+    <string name="overview_text"><![CDATA[
+    Plant nutrition is the study of the chemical elements and compounds
+    necessary for plant growth and reproduction Plant nutrition is the study of the chemical elements and
+    compounds necessary for plant growth and reproduction, plant metabolism and their external supply.
+    In its absence the plant is unable to complete a normal life cycle, or that the element is part of some essential
+    plant constituent or metabolite. This is in accordance with Justus von law of the minimum.
+    ]]></string>
+    <string name="basic_nutrients_title">Basic nutrients</string>
+    <string name="basic_nutrients_text"><![CDATA[
+    1. Carbon – Carbon forms the backbone of most plant biomolecules, including proteins,
+    starches and cellulose. Carbon is fixed through photosynthesis,
+    this converts carbon dioxide from the air into carbohydrates which are
+    used to store and transport energy within the plan
+    2. Hydrogen–  Hydrogen is necessary for building sugars and building the plant.
+    It is obtained almost entirely from water.
+    Hydrogen ions are imperative for a proton gradient to help drive the electron
+    transport chain in photosynthesis and for respiration
+    3. Oxygen– Oxygen is a component of many organic and inorganic molecules within the plant,
+    and is acquired in many forms. These include: O2 and CO2 (mainly from the air via leaves)
+    ]]></string>
+    <string name="processes_title">Processes</string>
+    <string name="processes_text"><![CDATA[
+    Plants take up essential elements from the soil through their roots and from the air through their leaves.
+    Nutrient uptake in the soil is achieved by cation exchange,
+    wherein root hairs pump hydrogen ions into the soil through proton pumps
+    ]]></string>
+
+
+    <string name="chainsaw_title">FLINT Chain saw 54.5cc</string>
+    <string name="chainsaw_price">Rs. 62,500.00</string>
+    <string name="chainsaw_price2"><strike>Rs. 85,000.00</strike></string>
+    <string name="chainsaw_description">
+        Take on tough cutting tasks with confidence using the FLINT 5800 Chainsaw.
+        Designed for both professionals and serious ,
+        this high-performance 2-stroke gasoline chainsaw,
+        features a powerful 58cc engine and a 22-inch guide bar.
+    </string>
+    <string name="add_cart">Add to Cart</string>
+
+
+    <string name="group">Group</string>
+    <string name="general">General</string>
+    <string name="plants0">0 Plants</string>
+    <string name="add_plants">Add Plants</string>
+    <string name="garden_title">Your Garden is Empty</string>
+    <string name="garden_subtitle">Manage your plant family,view care tips, and track plant growth here</string>
+    <string name="add_plant">Add your first plant</string>
+
+    <string name="profile_title">Profile</string>
+    <string name="profile_name">Victoria Heard</string>
+    <string name="gmail">victoriaheard@gmail.com</string>
+    <string name="edit_profile">Edit Profile</string>
+    <string name="support">Support</string>
+    <string name="settings">Settings</string>
+    <string name="language">Language</string>
+    <string name="notification">Notification</string>
+    <string name="log_out">Log Out</string>
+
+    <string name="pay_success">Payment Success!</string>
+    <string name="amount">Rs. 21,920.00</string>
+    <string name="payment_title">Payment details</string>
+    <string name="pay_info1">Ref Number</string>
+    <string name="pay_value1">0124578695</string>
+    <string name="pay_info2">Payment status</string>
+    <string name="pay_value2">Success!</string>
+    <string name="pay_info3">Payment time</string>
+    <string name="pay_value3">25–08–2025 &#x9; 14:25:30</string>
+    <string name="total_pay">Total Payment</string>
+    <string name="total_pay_value">Rs. 21920.00</string>
+    <string name="pay_trouble">Trouble with your payment?</string>
+    <string name="let_us_know">Let us know on help center</string>
+    <string name="divider">--------------------------------------------------------------------------------------</string>
+
+    <string name="cart">Cart</string>
+    <string name="item_1_title">Transplanter</string>
+    <string name="item_1_subtitle"><![CDATA[ Transplanter 320mm]]></string>
+    <string name="item_1_price">Rs. 970.00</string>
+    <string name="item_2_title">Chain Saw</string>
+    <string name="item_2_subtitle">FLINT Chain Saw 54.5cc</string>
+    <string name="item_2_price">Rs. 960.00</string>
+    <string name="item_3_title">Brush Cutter</string>
+    <string name="item_3_subtitle"><![CDATA[ 328 Brush Cutter]]></string>
+    <string name="item_3_price">Rs. 19,990.00</string>
+    <string name="amount_price_title">Amount Price</string>
+    <string name="amount_price_subtitle">Rs. 21,920.00</string>
+    <string name="checkout">Check Out</string>
+
+    <string name="herbs">Herbs</string>
+    <string name="herb_1">Mint</string>
+    <string name="herb_1_description_1"><![CDATA[
+        Mint is a fast-growing, aromatic herb known for its cool,
+        refreshing flavor and distinctive scent.Belonging to the  family,
+        mint includes a variety of species.
+    ]]></string>
+    <string name="herb_1_description_2"><![CDATA[
+        Mentha, also known as mint, is a genus of flowering plants in the mint family,
+        . It is estimated that 13 to 24 species exist, but the exact
+        distinction between species is unclear.
+        The plant typically grows in moist,
+        partially shaded areas and spreads quickly through underground runners.
+        Its leaves are soft, serrated, and often have a slightly fuzzy texture.
+    ]]></string>
+    <string name="herb_2">Coriander</string>
+    <string name="herb_2_description_1"><![CDATA[
+        Coriander is a versatile herb prized for both its fresh leaves and dried seeds,
+        each offering distinct flavors and culinary uses.Belonging to the  family.]]>
+    </string>
+    <string name="herb_2_description_2">
+        Coriander, a feathery annual plant of the parsley family, is also known by the name cilantro.
+        The name coriander is usually used to refer to the dry fruits and seeds.
+        The plant\'s delicate young leaves are known as cilantro.
+        It is known by different names around the world—“cilantro” refers to the fresh
+        leaves (especially in American English), while “coriander” often
+        refers to the dried seeds or the entire plant.The plant features delicate,
+        feathery green leaves and small white or pale pink flowers.
+    </string>
+    <string name="herb_3">Ginger</string>
+    <string name="herb_3_description_1"><![CDATA[
+        Ginger is a pungent, aromatic root (technically a rhizome) widely used as
+        both a spice and a natural remedy.It comes from the plant Zingiber
+         It is an herbaceous perennial that grows annual pseudostems]]>
+    </string>
+    <string name="herb_3_description_2">
+        Ginger is a flowering plant whose rhizome, ginger root or ginger, is widely used as a spice and a folk medicine.
+        This versatile root is a staple in many global cuisines, including Indian,
+        Chinese, Thai, and Middle Eastern. It is used fresh, dried, powdered,
+        or as a juice or oil.
+    </string>
+
+
+    <string name="plant_overview_title">Mint</string>
+    <string name="plant_overview_subtitle">Scientific name Mentha</string>
+    <string name="plant_overview_subtitle1">Overview</string>
+    <string name="plant_overview_description1">
+        Mentha, also known as mint, is a genus of flowering plants in the mint family,
+        It is estimated that 13 to 24 species exist, but the exact distinction between species is unclear.
+        Hybridization occurs naturally where some species ranges overlap. Many hybrids and cultivars are known.
+    </string>
+    <string name="plant_overview_subtitle2">Other Species</string>
+    <string name="plant_overview_description2"><![CDATA[
+        1.Agastache - known as horse mints\n
+        2.Calamintha - known as calamints\n
+        3.Clinopodium acinos - known as  mint\n
+        4.Melissa - known as balm mint\n
+        5.Origanum - known as rock mint]]>
+    </string>
+
+    <string name="suggestion_1">Identifying plants in 10 steps</string>
+    <string name="suggestion_2">Same seeds but different looking plants</string>
+    <string name="suggestion_3"><![CDATA[Difference between species and varients ]]></string>
+    <string name="suggestion_4">Essential plant nutrients</string>
+
+    <string name="store_title">Everything You Need to Grow Greatness....</string>
+    <string name="item_price1"><strike>Rs. 1190.00</strike></string>
+    <string name="item_price2"><strike>Rs. 1275.00</strike></string>
+
+
+</resources>
